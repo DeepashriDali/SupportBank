@@ -1,4 +1,4 @@
-﻿
+﻿using System;
 
 namespace SupportBank
 
@@ -7,13 +7,8 @@ namespace SupportBank
     {
         public static void Main ( string[]args)
         {
-            Transactions transactions = new Transactions();
-
-            transactions.Readfile();
-
-            // Person person = new Person(transactions.Readfile(Sender), 23,4);
-
-            // Console.WriteLine(person.PersonName);
+            FileReader reader = new FileReader();
+            Bank bank = reader.ReadFile(@"C:\Training\SupportBank\Transactions2014.csv");
         }
     }
 
