@@ -40,7 +40,7 @@ namespace SupportBank
                 Console.WriteLine(transaction);
             }
         }
-        public decimal GetAccountBalance(string name)
+        public void GetAccountBalance(string name)
         {
 
             if(!Accounts.Any(account => account.Name == name))
@@ -62,7 +62,8 @@ namespace SupportBank
                     result += transaction.Amount;
                 }
             }
-            return result;
+            Console.WriteLine($" Account {name} {result}");
+       
         }
     }
 }
