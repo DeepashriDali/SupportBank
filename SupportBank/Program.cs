@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿using System;
 
+=======
+﻿
+>>>>>>> 41ddc9650268bbf1ecb6db657130a521457d626c
 namespace SupportBank
 
 {
@@ -27,4 +31,3 @@ namespace SupportBank
     }
 
 }
-
