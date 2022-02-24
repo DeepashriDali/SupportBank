@@ -3,14 +3,14 @@ namespace SupportBank
     public class Transaction
     {
         public DateTime Date { get; set;}
-        public string Sender { get; set; }
-        public string Receiver { get; set; }
+        public Account Sender { get; set; }
+        public Account Receiver { get; set; }
 
         public string Narrative { get; set ;}
 
         public decimal Amount { get; set; }
 
-         public Transaction(DateTime date, string sender, string receiver, string narrative, decimal amount)
+         public Transaction(DateTime date, Account sender, Account receiver, string narrative, decimal amount)
         {
         Date = date;
         Sender = sender;

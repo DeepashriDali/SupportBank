@@ -7,5 +7,10 @@ namespace SupportBank
     {
       Name = name;
     }
+
+    public override string ToString()
+    {
+      return $"account: {Name}";
+    }
   }
 }
