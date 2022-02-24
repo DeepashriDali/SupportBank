@@ -22,7 +22,7 @@ namespace SupportBank
                     splitLine[1],
                     splitLine[2],
                     splitLine[3],
-                    double.Parse(splitLine[4])  
+                    decimal.Parse(splitLine[4])  
                 ));
                 }
                 return bank;
