@@ -1,5 +1,4 @@
 ﻿
-
 namespace SupportBank
 
 {
@@ -7,15 +6,23 @@ namespace SupportBank
     {
         public static void Main ( string[]args)
         {
-            Transactions transactions = new Transactions();
+            if(args[0].ToLower() != "list")
+            {
+                return;
+            }
+            FileReader reader = new FileReader();
+            Bank bank = reader.ReadFile(@"C:\Training\SupportBank\Transactions2014.csv");
+            bank.PrintTransactions();
 
-            transactions.Readfile();
+            if(args[1].ToLower() == "all")
+            {
+                bank.PrintTransactions();
+                return;
+            }
 
-            // Person person = new Person(transactions.Readfile(Sender), 23,4);
-
-            // Console.WriteLine(person.PersonName);
+            decimal timLAccountBalance = bank.GetAccountBalance(args[1]);
+            Console.WriteLine($"Balance of Tim L: £{timLAccountBalance}");
         }
     }
 
 }
-
