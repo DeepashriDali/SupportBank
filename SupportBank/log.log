@@ -4659,3 +4659,159 @@
 2022-02-25 13:52:13.0564|INFO|SupportBank.FileReader|Loading line 26/02/2015,Stephen S,Jon A,Pokemon Training,4.23 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
 2022-02-25 13:52:13.0564|ERROR|SupportBank.FileReader|Date: 01/03/2015 needs to be in the date format
 2022-02-25 13:52:13.0722|ERROR|SupportBank.FileReader| For Transaction on 01/03/2015 the amount enered as : One Cheeseburger needs to be a number
+2022-02-25 14:09:34.9689|INFO|SupportBank.FileReader|Loading line 01/01/2015,Laura B,Sarah T,Misc Morale,10.54 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0085|INFO|SupportBank.FileReader|Loading line 04/01/2015,Stephen S,Gergana I,Lunch,3.22 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0085|INFO|SupportBank.FileReader|Loading line 07/01/2015,Ben B,Jon A,Fantasy Football,9.93 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0085|INFO|SupportBank.FileReader|Loading line 11/01/2015,Ben B,Todd,Lunch,7.33 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0085|INFO|SupportBank.FileReader|Loading line 12/01/2015,Laura B,Ben B,Beers,8.94 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0178|INFO|SupportBank.FileReader|Loading line 15/01/2015,Todd,Rob S,Beers,10.19 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0178|INFO|SupportBank.FileReader|Loading line 16/01/2015,Laura B,Jon A,Lego Assistance,0.69 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0178|INFO|SupportBank.FileReader|Loading line 18/01/2015,Jon A,Sarah T,Coffee,10.73 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0178|INFO|SupportBank.FileReader|Loading line 22/01/2015,Gergana I,Todd,Coffee,0.8 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0178|INFO|SupportBank.FileReader|Loading line 24/01/2015,Gergana I,Chris W,Coffee,8.49 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0178|INFO|SupportBank.FileReader|Loading line 27/01/2015,Laura B,Tim L,Jenkins Fees,0.52 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0178|INFO|SupportBank.FileReader|Loading line 29/01/2015,Sam N,Chris W,Lunch,9.01 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0178|INFO|SupportBank.FileReader|Loading line 01/02/2015,Stephen S,Laura B,Coffee,7.53 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0343|INFO|SupportBank.FileReader|Loading line 02/02/2015,Stephen S,Rob S,Fantasy Football,7.43 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0343|INFO|SupportBank.FileReader|Loading line 04/02/2015,Rob S,Stephen S,Fantasy Football,5.78 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0343|INFO|SupportBank.FileReader|Loading line 06/02/2015,Dan W,Gergana I,Automated Testing Services,10.29 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0343|INFO|SupportBank.FileReader|Loading line 07/02/2015,Jon A,Chris W,Rails Consultancy,7.37 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0343|INFO|SupportBank.FileReader|Loading line 10/02/2015,Sam N,Gergana I,Sandbox Help,9.84 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0518|INFO|SupportBank.FileReader|Loading line 11/02/2015,Chris W,Stephen S,Misc Morale,0.68 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0518|INFO|SupportBank.FileReader|Loading line 13/02/2015,Laura B,Gergana I,Beers,6.56 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0518|INFO|SupportBank.FileReader|Loading line 16/02/2015,Chris W,Dan W,Jenkins Fees,1.28 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0685|INFO|SupportBank.FileReader|Loading line 17/02/2015,Sarah T,Dan W,Sandbox Help,11.48 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0685|INFO|SupportBank.FileReader|Loading line 18/02/2015,Stephen S,Rob S,Lego Assistance,4.83 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0825|INFO|SupportBank.FileReader|Loading line 21/02/2015,Dan W,Ben B,Pokemon Training,0.5 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.0825|INFO|SupportBank.FileReader|Loading line 24/02/2015,Todd,Gergana I,Coffee,9.08 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.1030|INFO|SupportBank.FileReader|Loading line 26/02/2015,Stephen S,Jon A,Pokemon Training,4.23 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:09:35.1124|ERROR|SupportBank.FileReader|Date: 01/03/2015 needs to be in the date format
+2022-02-25 14:09:35.1124|ERROR|SupportBank.FileReader| For Transaction on 01/03/2015 the amount enered as : One Cheeseburger needs to be a number
+2022-02-25 14:10:57.0103|INFO|SupportBank.FileReader|Loading line 01/01/2015,Laura B,Sarah T,Misc Morale,10.54 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.0543|INFO|SupportBank.FileReader|Loading line 04/01/2015,Stephen S,Gergana I,Lunch,3.22 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.0543|INFO|SupportBank.FileReader|Loading line 07/01/2015,Ben B,Jon A,Fantasy Football,9.93 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.0543|INFO|SupportBank.FileReader|Loading line 11/01/2015,Ben B,Todd,Lunch,7.33 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.0543|INFO|SupportBank.FileReader|Loading line 12/01/2015,Laura B,Ben B,Beers,8.94 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.0543|INFO|SupportBank.FileReader|Loading line 15/01/2015,Todd,Rob S,Beers,10.19 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.0679|INFO|SupportBank.FileReader|Loading line 16/01/2015,Laura B,Jon A,Lego Assistance,0.69 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.0679|INFO|SupportBank.FileReader|Loading line 18/01/2015,Jon A,Sarah T,Coffee,10.73 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.0679|INFO|SupportBank.FileReader|Loading line 22/01/2015,Gergana I,Todd,Coffee,0.8 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.0818|INFO|SupportBank.FileReader|Loading line 24/01/2015,Gergana I,Chris W,Coffee,8.49 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.0818|INFO|SupportBank.FileReader|Loading line 27/01/2015,Laura B,Tim L,Jenkins Fees,0.52 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.0818|INFO|SupportBank.FileReader|Loading line 29/01/2015,Sam N,Chris W,Lunch,9.01 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1004|INFO|SupportBank.FileReader|Loading line 01/02/2015,Stephen S,Laura B,Coffee,7.53 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1004|INFO|SupportBank.FileReader|Loading line 02/02/2015,Stephen S,Rob S,Fantasy Football,7.43 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1306|INFO|SupportBank.FileReader|Loading line 04/02/2015,Rob S,Stephen S,Fantasy Football,5.78 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1306|INFO|SupportBank.FileReader|Loading line 06/02/2015,Dan W,Gergana I,Automated Testing Services,10.29 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1459|INFO|SupportBank.FileReader|Loading line 07/02/2015,Jon A,Chris W,Rails Consultancy,7.37 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1459|INFO|SupportBank.FileReader|Loading line 10/02/2015,Sam N,Gergana I,Sandbox Help,9.84 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1459|INFO|SupportBank.FileReader|Loading line 11/02/2015,Chris W,Stephen S,Misc Morale,0.68 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1459|INFO|SupportBank.FileReader|Loading line 13/02/2015,Laura B,Gergana I,Beers,6.56 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1655|INFO|SupportBank.FileReader|Loading line 16/02/2015,Chris W,Dan W,Jenkins Fees,1.28 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1655|INFO|SupportBank.FileReader|Loading line 17/02/2015,Sarah T,Dan W,Sandbox Help,11.48 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1763|INFO|SupportBank.FileReader|Loading line 18/02/2015,Stephen S,Rob S,Lego Assistance,4.83 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1763|INFO|SupportBank.FileReader|Loading line 21/02/2015,Dan W,Ben B,Pokemon Training,0.5 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1763|INFO|SupportBank.FileReader|Loading line 24/02/2015,Todd,Gergana I,Coffee,9.08 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1763|INFO|SupportBank.FileReader|Loading line 26/02/2015,Stephen S,Jon A,Pokemon Training,4.23 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:10:57.1958|ERROR|SupportBank.FileReader|Date: 01/03/2015 needs to be in the date format
+2022-02-25 14:10:57.1958|ERROR|SupportBank.FileReader| For Transaction on 01/03/2015 the amount enered as : One Cheeseburger needs to be a number
+2022-02-25 14:35:13.1206|INFO|SupportBank.FileReader|Loading line 01/01/2015,Laura B,Sarah T,Misc Morale,10.54 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.1753|INFO|SupportBank.FileReader|Loading line 04/01/2015,Stephen S,Gergana I,Lunch,3.22 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.1753|INFO|SupportBank.FileReader|Loading line 07/01/2015,Ben B,Jon A,Fantasy Football,9.93 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.1794|INFO|SupportBank.FileReader|Loading line 11/01/2015,Ben B,Todd,Lunch,7.33 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.1794|INFO|SupportBank.FileReader|Loading line 12/01/2015,Laura B,Ben B,Beers,8.94 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.1794|INFO|SupportBank.FileReader|Loading line 15/01/2015,Todd,Rob S,Beers,10.19 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.1794|INFO|SupportBank.FileReader|Loading line 16/01/2015,Laura B,Jon A,Lego Assistance,0.69 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.1794|INFO|SupportBank.FileReader|Loading line 18/01/2015,Jon A,Sarah T,Coffee,10.73 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2006|INFO|SupportBank.FileReader|Loading line 22/01/2015,Gergana I,Todd,Coffee,0.8 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2006|INFO|SupportBank.FileReader|Loading line 24/01/2015,Gergana I,Chris W,Coffee,8.49 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2006|INFO|SupportBank.FileReader|Loading line 27/01/2015,Laura B,Tim L,Jenkins Fees,0.52 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2137|INFO|SupportBank.FileReader|Loading line 29/01/2015,Sam N,Chris W,Lunch,9.01 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2137|INFO|SupportBank.FileReader|Loading line 01/02/2015,Stephen S,Laura B,Coffee,7.53 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2137|INFO|SupportBank.FileReader|Loading line 02/02/2015,Stephen S,Rob S,Fantasy Football,7.43 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2277|INFO|SupportBank.FileReader|Loading line 04/02/2015,Rob S,Stephen S,Fantasy Football,5.78 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2277|INFO|SupportBank.FileReader|Loading line 06/02/2015,Dan W,Gergana I,Automated Testing Services,10.29 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2277|INFO|SupportBank.FileReader|Loading line 07/02/2015,Jon A,Chris W,Rails Consultancy,7.37 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2277|INFO|SupportBank.FileReader|Loading line 10/02/2015,Sam N,Gergana I,Sandbox Help,9.84 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2423|INFO|SupportBank.FileReader|Loading line 11/02/2015,Chris W,Stephen S,Misc Morale,0.68 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2423|INFO|SupportBank.FileReader|Loading line 13/02/2015,Laura B,Gergana I,Beers,6.56 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2590|INFO|SupportBank.FileReader|Loading line 16/02/2015,Chris W,Dan W,Jenkins Fees,1.28 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2590|INFO|SupportBank.FileReader|Loading line 17/02/2015,Sarah T,Dan W,Sandbox Help,11.48 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.2881|INFO|SupportBank.FileReader|Loading line 18/02/2015,Stephen S,Rob S,Lego Assistance,4.83 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3049|INFO|SupportBank.FileReader|Loading line 21/02/2015,Dan W,Ben B,Pokemon Training,0.5 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3224|INFO|SupportBank.FileReader|Loading line 24/02/2015,Todd,Gergana I,Coffee,9.08 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3368|INFO|SupportBank.FileReader|Loading line 26/02/2015,Stephen S,Jon A,Pokemon Training,4.23 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3368|INFO|SupportBank.FileReader|Loading line 02/03/2015,Todd,Chris W,Sandbox Help,1.92 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3557|INFO|SupportBank.FileReader|Loading line 04/03/2015,Laura B,Jon A,Sandcastle Help,9.09 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3557|INFO|SupportBank.FileReader|Loading line 06/03/2015,Stephen S,Gergana I,Lego Assistance,9.4 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3675|INFO|SupportBank.FileReader|Loading line 08/03/2015,Ben B,Sam N,Pokemon Training,11.32 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3675|INFO|SupportBank.FileReader|Loading line 11/03/2015,Stephen S,Jon A,Sandcastle Help,11.57 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3675|INFO|SupportBank.FileReader|Loading line 15/03/2015,Todd,Sam N,Pokemon Training,2.29 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3675|INFO|SupportBank.FileReader|Loading line 19/03/2015,Laura B,Chris W,Coffee,9.96 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3827|INFO|SupportBank.FileReader|Loading line 21/03/2015,Jon A,Gergana I,Beers,7.54 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3827|INFO|SupportBank.FileReader|Loading line 25/03/2015,Gergana I,Ben B,Automated Testing Services,2.39 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3827|INFO|SupportBank.FileReader|Loading line 28/03/2015,Stephen S,Tim L,Lunch,5.83 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3827|INFO|SupportBank.FileReader|Loading line 29/03/2015,Gergana I,Ben B,Audit and Other Financial Services,10.85 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3827|INFO|SupportBank.FileReader|Loading line 30/03/2015,Tim L,Todd,Pokemon Training,8.6 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3827|INFO|SupportBank.FileReader|Loading line 02/04/2015,Stephen S,Chris W,Pokemon Training,1.11 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3991|INFO|SupportBank.FileReader|Loading line 05/04/2015,Chris W,Ben B,Lunch,0.96 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.3991|INFO|SupportBank.FileReader|Loading line 09/04/2015,Chris W,Rob S,Audit and Other Financial Services,11.79 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.4227|INFO|SupportBank.FileReader|Loading line 12/04/2015,Gergana I,Laura B,Stationary Items,8.37 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.4993|INFO|SupportBank.FileReader|Loading line 13/04/2015,Laura B,Tim L,Services Rendered,1.27 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.4993|INFO|SupportBank.FileReader|Loading line 15/04/2015,Ben B,Sam N,Lego Assistance,8.5 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.5245|INFO|SupportBank.FileReader|Loading line 19/04/2015,Stephen S,Chris W,White Water Rafting,8.91 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.5388|INFO|SupportBank.FileReader|Loading line 23/04/2015,Tim L,Todd,Misc Morale,8.1 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.5388|INFO|SupportBank.FileReader|Loading line 24/04/2015,Tim L,Sarah T,Arcade Social,6.38 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.5388|INFO|SupportBank.FileReader|Loading line 26/04/2015,Jon A,Todd,Stationary Items,8.44 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.5388|INFO|SupportBank.FileReader|Loading line 27/04/2015,Ben B,Jon A,Pokemon Training,10.91 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:13.5614|ERROR|SupportBank.FileReader|Date: Last Thursday needs to be in the date format
+2022-02-25 14:35:23.7818|INFO|SupportBank.FileReader|Loading line 01/01/2015,Laura B,Sarah T,Misc Morale,10.54 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.8268|INFO|SupportBank.FileReader|Loading line 04/01/2015,Stephen S,Gergana I,Lunch,3.22 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.8268|INFO|SupportBank.FileReader|Loading line 07/01/2015,Ben B,Jon A,Fantasy Football,9.93 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.8268|INFO|SupportBank.FileReader|Loading line 11/01/2015,Ben B,Todd,Lunch,7.33 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.8375|INFO|SupportBank.FileReader|Loading line 12/01/2015,Laura B,Ben B,Beers,8.94 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.8547|INFO|SupportBank.FileReader|Loading line 15/01/2015,Todd,Rob S,Beers,10.19 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.8547|INFO|SupportBank.FileReader|Loading line 16/01/2015,Laura B,Jon A,Lego Assistance,0.69 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.8812|INFO|SupportBank.FileReader|Loading line 18/01/2015,Jon A,Sarah T,Coffee,10.73 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.9256|INFO|SupportBank.FileReader|Loading line 22/01/2015,Gergana I,Todd,Coffee,0.8 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.9321|INFO|SupportBank.FileReader|Loading line 24/01/2015,Gergana I,Chris W,Coffee,8.49 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.9321|INFO|SupportBank.FileReader|Loading line 27/01/2015,Laura B,Tim L,Jenkins Fees,0.52 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.9455|INFO|SupportBank.FileReader|Loading line 29/01/2015,Sam N,Chris W,Lunch,9.01 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.9455|INFO|SupportBank.FileReader|Loading line 01/02/2015,Stephen S,Laura B,Coffee,7.53 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.9455|INFO|SupportBank.FileReader|Loading line 02/02/2015,Stephen S,Rob S,Fantasy Football,7.43 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.9455|INFO|SupportBank.FileReader|Loading line 04/02/2015,Rob S,Stephen S,Fantasy Football,5.78 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:23.9953|INFO|SupportBank.FileReader|Loading line 06/02/2015,Dan W,Gergana I,Automated Testing Services,10.29 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.0098|INFO|SupportBank.FileReader|Loading line 07/02/2015,Jon A,Chris W,Rails Consultancy,7.37 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.0417|INFO|SupportBank.FileReader|Loading line 10/02/2015,Sam N,Gergana I,Sandbox Help,9.84 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.0417|INFO|SupportBank.FileReader|Loading line 11/02/2015,Chris W,Stephen S,Misc Morale,0.68 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.0677|INFO|SupportBank.FileReader|Loading line 13/02/2015,Laura B,Gergana I,Beers,6.56 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.0937|INFO|SupportBank.FileReader|Loading line 16/02/2015,Chris W,Dan W,Jenkins Fees,1.28 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.0937|INFO|SupportBank.FileReader|Loading line 17/02/2015,Sarah T,Dan W,Sandbox Help,11.48 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.1028|INFO|SupportBank.FileReader|Loading line 18/02/2015,Stephen S,Rob S,Lego Assistance,4.83 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.1028|INFO|SupportBank.FileReader|Loading line 21/02/2015,Dan W,Ben B,Pokemon Training,0.5 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.1180|INFO|SupportBank.FileReader|Loading line 24/02/2015,Todd,Gergana I,Coffee,9.08 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.1180|INFO|SupportBank.FileReader|Loading line 26/02/2015,Stephen S,Jon A,Pokemon Training,4.23 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.1180|INFO|SupportBank.FileReader|Loading line 02/03/2015,Todd,Chris W,Sandbox Help,1.92 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.1180|INFO|SupportBank.FileReader|Loading line 04/03/2015,Laura B,Jon A,Sandcastle Help,9.09 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.1489|INFO|SupportBank.FileReader|Loading line 06/03/2015,Stephen S,Gergana I,Lego Assistance,9.4 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.1489|INFO|SupportBank.FileReader|Loading line 08/03/2015,Ben B,Sam N,Pokemon Training,11.32 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.1489|INFO|SupportBank.FileReader|Loading line 11/03/2015,Stephen S,Jon A,Sandcastle Help,11.57 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.1489|INFO|SupportBank.FileReader|Loading line 15/03/2015,Todd,Sam N,Pokemon Training,2.29 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.1816|INFO|SupportBank.FileReader|Loading line 19/03/2015,Laura B,Chris W,Coffee,9.96 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.2102|INFO|SupportBank.FileReader|Loading line 21/03/2015,Jon A,Gergana I,Beers,7.54 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.2509|INFO|SupportBank.FileReader|Loading line 25/03/2015,Gergana I,Ben B,Automated Testing Services,2.39 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.2690|INFO|SupportBank.FileReader|Loading line 28/03/2015,Stephen S,Tim L,Lunch,5.83 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.2755|INFO|SupportBank.FileReader|Loading line 29/03/2015,Gergana I,Ben B,Audit and Other Financial Services,10.85 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.2755|INFO|SupportBank.FileReader|Loading line 30/03/2015,Tim L,Todd,Pokemon Training,8.6 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.2755|INFO|SupportBank.FileReader|Loading line 02/04/2015,Stephen S,Chris W,Pokemon Training,1.11 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.2755|INFO|SupportBank.FileReader|Loading line 05/04/2015,Chris W,Ben B,Lunch,0.96 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.2906|INFO|SupportBank.FileReader|Loading line 09/04/2015,Chris W,Rob S,Audit and Other Financial Services,11.79 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.2906|INFO|SupportBank.FileReader|Loading line 12/04/2015,Gergana I,Laura B,Stationary Items,8.37 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.3356|INFO|SupportBank.FileReader|Loading line 13/04/2015,Laura B,Tim L,Services Rendered,1.27 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.3579|INFO|SupportBank.FileReader|Loading line 15/04/2015,Ben B,Sam N,Lego Assistance,8.5 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.4052|INFO|SupportBank.FileReader|Loading line 19/04/2015,Stephen S,Chris W,White Water Rafting,8.91 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.4159|INFO|SupportBank.FileReader|Loading line 23/04/2015,Tim L,Todd,Misc Morale,8.1 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.4159|INFO|SupportBank.FileReader|Loading line 24/04/2015,Tim L,Sarah T,Arcade Social,6.38 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.4159|INFO|SupportBank.FileReader|Loading line 26/04/2015,Jon A,Todd,Stationary Items,8.44 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.4159|INFO|SupportBank.FileReader|Loading line 27/04/2015,Ben B,Jon A,Pokemon Training,10.91 from file C:\Training\11-SupportBank\DodgyTransactions2015.csv
+2022-02-25 14:35:24.4381|ERROR|SupportBank.FileReader|Date: Last Thursday needs to be in the date format

@@ -2,7 +2,7 @@ using NLog;
 
 namespace SupportBank
 {
-    public class FileReader
+    public class IFileReader
     {
 
         private static readonly NLog.Logger Logger = NLog.LogManager.GetCurrentClassLogger();
@@ -37,16 +37,28 @@ namespace SupportBank
                     try 
                     {
                         var Date = DateTime.Parse(splitLine[0]);
-                        var amount = decimal.Parse(splitLine[4]);
+         
                     }
                     catch(FormatException e)
                     {
                         Logger.Error($"Date: {splitLine[0]} needs to be in the date format");
-                        Logger.Error($" For Transaction on {splitLine[0]} the amount enered as : {splitLine[4]} needs to be a number");
+                
                         throw new FormatException($"Date: {splitLine[0]} needs to be in the date format", e);
-                        throw new FormatException ($" For Transaction on {splitLine[0]} the amount enered as : {splitLine[4]} needs to be a number", e);
+                       
                     }
 
+
+                    try 
+                    {
+                        var amount = decimal.Parse(splitLine[4]);
+                    }
+                    catch(FormatException e)
+                    {
+                      
+                        Logger.Error($" For Transaction on {splitLine[0]} the amount enered as : {splitLine[4]} needs to be a number");
+                   
+                        throw new FormatException ($" For Transaction on {splitLine[0]} the amount enered as : {splitLine[4]} needs to be a number", e);
+                    }
                     Logger.Info($"Loading line {line} from file {path}");
 
                     bank.Transactions.Add(new Transaction(

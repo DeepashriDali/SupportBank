@@ -25,8 +25,10 @@ namespace SupportBank
                 return;
             }
 
-            FileReader loader = new FileReader();
+
+            IFileReader loader = new IFileReader();
             Bank bank = loader.ReadFile(@"C:\Training\11-SupportBank\DodgyTransactions2015.csv");
+          
 
             if (args[1].ToLower() == "all")
             {
