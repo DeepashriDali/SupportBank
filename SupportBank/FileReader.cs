@@ -42,6 +42,15 @@ namespace SupportBank
                         throw new FormatException("Date was unable to parse", e);
                     }
 
+                    try 
+                    {
+                        var amount = decimal.Parse(splitLine[4]);
+                    }
+                    catch(FormatException e)
+                    {
+                        throw new FormatException ("Invalid number entered", e);
+                    }
+
                     Logger.Info($"Loading line {line} from file {path}");
 
                     bank.Transactions.Add(new Transaction(
