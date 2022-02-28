@@ -19,22 +19,26 @@ namespace SupportBank
             
             // Apply config           
             NLog.LogManager.Configuration = config;
-           if (args[0].ToLower() != "list")
+            if (args[0].ToLower() != "list")
             {
                 return;
             }
 
-            FileReader loader = new FileReader();
-            Bank bank = loader.ReadFile(@"C:\Training\SupportBank\Transactions2014.csv");
+
+            IFileReader loader = new IFileReader();
+            Bank bank = loader.ReadFile(@"C:\Training\SupportBank\DodgyTransactions2015.csv");
+          
 
             if (args[1].ToLower() == "all")
             {
                 
-                return;
+                bank.PrintTransactions();
             }
-            bank.PrintTransactions();
-            bank.GetAccountBalance("Tim L");
-            // Console.WriteLine($"Balance for {args[1]}: £{balance}");
+            else 
+            {
+                bank.GetAccountBalance(args[1]);
+            }
+           
         }
     }
 

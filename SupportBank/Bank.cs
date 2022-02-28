@@ -62,7 +62,7 @@ namespace SupportBank
                     result += transaction.Amount;
                 }
             }
-            Console.WriteLine($" Account {name} {result}");
+            Console.WriteLine($" Account Balance of {name} is: {result}");
        
         }
     }
