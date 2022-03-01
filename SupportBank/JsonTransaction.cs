@@ -10,8 +10,7 @@ namespace SupportBank
     public decimal Amount {get; set;}
  
 
-    public JsonTransaction
-     (DateTime date, Account fromAccount, Account toAccount, string narrative, decimal amount)
+    public JsonTransaction(DateTime date, Account fromAccount, Account toAccount, string narrative, decimal amount)
     {
         Date = date;
         FromAccount = fromAccount;
@@ -19,6 +18,9 @@ namespace SupportBank
         Narrative = narrative;
         Amount = amount;
     }
-
+public override string ToString()
+    {
+        return $" {Date}  Amount: {Amount} From:{FromAccount} To: {ToAccount} Ref: {Narrative} ";
+    }
  }
 } 

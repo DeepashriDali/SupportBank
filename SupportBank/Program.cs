@@ -1,5 +1,5 @@
 ﻿using NLog;
-using Json.Net;
+
 namespace SupportBank
 
 {
@@ -26,9 +26,10 @@ namespace SupportBank
             }
 
 
-            IFileReader loader = new IFileReader();
-            Bank bank = loader.ReadFile(@"C:\Training\11-SupportBank\DodgyTransactions2015.csv");
-          
+            // CsvReader loader = new CsvReader();
+            // Bank bank = loader.ReadCsvFile(@"C:\Training\11-SupportBank\Transactions2014.csv");
+            JsonReader loader1 = new JsonReader();
+            Bank bank = loader1.ReadJsonFile(@"C:\Training\11-SupportBank\Transactions2013.json");
 
             if (args[1].ToLower() == "all")
             {
